@@ -1,6 +1,6 @@
 /**
  * @name SpotifyToYTMusic
- * @version 0.0.4
+ * @version 0.0.5
  * @description Open SpotifyRPC links in YouTube Music instead of Spotify
  * @author AlexInABox
  * @authorId 428870593358594048
@@ -25,7 +25,7 @@ module.exports = class SpotifyToYTMusic {
   }
 
   getVersion() {
-    return "0.0.4";
+    return "0.0.5";
   }
 
   getAuthor() {
